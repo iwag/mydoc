@@ -1,11 +1,11 @@
-この記事はGPU Advent Calendar 2012のために作成されました。
+GPU Advent Calendar 2012 XX日目の記事です。
 
 あのだよ、
 ワス今さらなんだケドGPGPUに興味がでてきてCUDAなんか調べてたら、お声がかかってこういう書いているわけですよ。
-GPUやろうと思ったきっかけもなくて、特になんか作りたいものがあったりするわけじゃないケド、やっぱりGPU使う以上早くなって欲しいわけじゃんか。
+GPUやろうと思ったのも特になんか作りたいものがあったりするわけじゃないケド、やっぱりGPU使う以上早くなって欲しいわけじゃんか。
 でいろいろ本とかNVIDIAの資料とかウェッブで資料読んだりしてるわけです。
-だけどもさあ、これはバンド幅制限だすよとかコアレスアクセスですヨとかシェア度メモリがバンクコンフリクトとか分岐がしてますよとか。
-いやぁワスみたいな初心者にはプログラムみてここがコアレスだよとか正直きびしい。
+だけどもさあ、これはバンド幅制限だすよとかコアレッシングですよとかシェア度メモリがバンクコンフリクトとか分岐がしてますよとか。
+いやぁワスみたいな初心者にはプログラムみてここがコアレッシングだよとか正直きびしい。
 まあ作ってみて測ればいいじゃんとか言われるとぐぅの音もでないんだケドさ、ワスは高速化するために行きつ戻りとかしたくないんだよ！！
 というかワス、ホント情けないことなんだケド、コアレスアクセッシングとかワープダイバージェンスとか何度読んでもゼンゼンわかんないねえですよ…。
 
@@ -13,7 +13,9 @@ GPUやろうと思ったきっかけもなくて、特になんか作りたい�
 あるんですよ！
 ってことで今回はCUDAのプロファイラで取れるカウンタの値について紹介します（前フリながくて申し訳ないケド…）。
 
-これは別にワスが思いついたことじゃなくて、この発表資料がネタ元になってます。
+## nvprof
+
+これから書くことは別にワスが思いついたことじゃなくて、この発表資料がネタ元になってます。
 
  GPU Performance Analysis and Optimization
 <http://developer.download.nvidia.com/GTC/PDF/GTC2012/PresentationPDF/S0514-GTC2012-GPU-Performance-Analysis.pdf>
@@ -24,18 +26,21 @@ GPUやろうと思ったきっかけもなくて、特になんか作りたい�
 ところで、CUDA 5.0 からプロファイラ（nvprof）が新しくなったんだよ。
 nvprofを使うのは簡単で、このへんのドキュメント<http://docs.nvidia.com/cuda/profiler-users-guide/index.html#nvprof-overview>を読めばわかります。
 正直nvprofの使い方はどーでもよくて、なぜなら以前から環境変数セットして使うプロファイラとかVisual Profiler使えば見えたんだし。といってもワスnvprof以外で試してないんだよね…。
-でも、ほらあれじゃんか、nvprofお手軽でいいじゃんか！
+じゃnvprofなにがうれしいのかって言われたら、ほらあれじゃんか、nvprofお手軽でいいじゃんか！
 
-これ以下にnvprofの説明があったんだケド、tanakmuraさんの記事とかぶってんるんで男らしく割愛するよ！
+ここにnvprofの説明があったんだケド、tanakmuraさんの記事<http://d.hatena.ne.jp/w_o/20121211#1355236028>とかぶってんるんで男らしく割愛するよ！
+
 （略）
 
-ここまではマニュアルにのってることしか書いてないです（本来はここにnvprofの説明があったんだよ）、というかココまで読んでくれてる人がどれダケいるのかまったく予想できないんだケド、これからもこんな感じで進んでいくですよ、で、こっから実際に計測した値を元に分析みたいなことをしていきますよ。
+ここまではマニュアルにのってることしか書いてないですよ（本来はここにnvprofの説明があったんだよ）、というかココまで読んでくれてる人がどれダケいるのかまったく予想できないんだケド、これからもこんな感じで進んでいくですよ。
+で、こっから実際に計測した値を元に分析みたいなことをしていきますよ。
 
-たくさん種類がある中からどれを見ればいいのかっていうと、前出の資料によると注目すべきは以下の6つらしいです。
+-query-printするとたくさんの種類のカウンタが出てくるんだケド、どれを見ればいいのかっていうと、前出の資料によると注目すべきは以下の6つらしいです。
+
 + グローバルメモリ
  + gld_request, gst_request
  + l1_global_load_hit, l1_global_load_miss, global_store_transaction
-+ Shared
++ Shared memory
  + l1_shared_bank_conflict
 + 命令
  + instructions_issued, inst_executed
@@ -47,7 +52,9 @@ nvprofを使うのは簡単で、このへんのドキュメント<http://docs.n
 ### 余談：instruction_issued
 
 ちょいちょい変わるといっても変わってるのでワスが知ってるのはinstruction_issuedダケで、これがcompute capabilityによって変わるみたいです。
- compute capability 2.0 （たぶん）まではinstruction\_issuedなんですが、2.1以降はinstruction\_issuedがなくなって
+
+compute capability 2.0 （たぶん）まではinstruction\_issuedなんですが、2.1以降はinstruction\_issuedがなくなって
+
  + inst_issued1_0:  Number of single instruction issued per cycle
  in pipeline 0.
  + inst_issued2_0:  Number of dual instructions issued per cycle
@@ -57,7 +64,7 @@ in pipeline 0.
  + inst_issued2_1:  Number of dual instructions issued per cycle
 in pipeline 1.
 
-の4つに細分化されています。
+の4つに細分化されています（ちなみに上の結果はGT620のnvprof --query-eventsより）。
  で、compute capability 2.1以降では
 
 instruction\_issued = inst_issued1_0 + inst\_issued2_0 x 2 
@@ -65,13 +72,14 @@ instruction\_issued = inst_issued1_0 + inst\_issued2_0 x 2
 
 で計算すればよいかと思います。
  根拠はhttp://docs.nvidia.com/cuda/cupti/index.html#r_metric_reference_3x の表です。
+ compute capability 2.1なのになぜ3xかはわかりません…。
 
 ## コアレッシングアクセス
 
-GPUの本とかC Programming Guideみると猫も杓子もコアレスコアレッシングって言ってるけどもさ（実際言ってないけど）、
-プロファイラを使うことでコアレッシングアクセスにちゃんとなってるか確認することができるわけです。
+CUDAの本とかマニュアルみると猫も杓子もコアレッシング・コアレッシングって言ってるケドもさ（実際言ってないケド…）、
+プロファイラを使うことでコアレッシングアクセスにちゃんとなってるか確認することができます。
 
-vectorAddの簡単なカーネルで調べてみますですよ。
+CUDAの一番最初のサンプルであるvectorAddの簡単なカーネルで調べてみますよ。
 ```
  __global__ void vectorAdd(float *d_A, float *d_B, float *d_C) {
  	int i = blockIdx.x * blockDim.x + threadIdx.x;
@@ -79,7 +87,6 @@ vectorAddの簡単なカーネルで調べてみますですよ。
  _}
 ```
 
-これはコアレスアクセスしてるケド、お手軽にブロックサイズを変えてコアレスじゃなくしますよ。
 
 今回のネタ元になってる1番目の資料によると（スライド４０あたりです）、
 トランザクションって考えでわかるらしいですよ。
@@ -100,8 +107,7 @@ vectorAddの簡単なカーネルで調べてみますですよ。
  + store:
  1 transactions
  
-floatのロードストアなんでどっちも1ですわ。
-
+floatのロードストアなんでどっちも1です。
 ここで計測すべきは次の5つのカウンタです。
 
 - load transaction
@@ -113,8 +119,8 @@ floatのロードストアなんでどっちも1ですわ。
  - global_store_transaction
 
 
-見積もったトランザクション数とプロファイラで得られた値とを見ていきますよ。
- ブロック数を適当にしました。これはコアレスじゃないですね。
+で、見積もったトランザクション数とプロファイラで得られた値とを見ていきますよ。
+ブロック数を適当にしました。これはコアレスじゃないですね。
 ```
 vectorAdd<<<250,200>>>(d_A, d_B, d_C);
 ```
@@ -137,7 +143,7 @@ vectorAdd<<<250,200>>>(d_A, d_B, d_C);
  + store transaction:
   2628/1750 = *1.5*
 
-見積もったやつよりちょっと多いですね。
+見積もったやつよりかなり多いですね。
 
 一方以下のようにスレッドブロックの数をワープの数にしてコアレッシングアクセスに変えると、
 ```
@@ -160,7 +166,7 @@ vectorAdd<<<1000,256>>>(d_A, d_B, d_C);
   1612 / 1563 = *1.0*
 
 
-見積った値と同じになりましたよ！！！
+見積った値と同じになりましたよ。
 
 注目すべきはコアレッシングだとl1_global_load_hitが0になっている点で、
 規則的なアクセスだとL1にヒットすることはないけど、コアレッシングじゃないと不規則なので
@@ -181,6 +187,7 @@ L1にヒットすることがあるという意味なのかなとおもいます
 
 という感じで発行数も実行数も増えてます。例がよくないというのもあります…。
 
+ちなみにすべてGT620で測ってて、GTX680もあったんだケド、l1_global_load_hit, missともに0になるんだよね…。
 
 ## shared memory
 バンクコンフリクトよくわかんないですよ。
