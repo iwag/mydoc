@@ -1,4 +1,4 @@
-GPU Advent Calendar 2012 XX日目の記事です。
+GPU Advent Calendar 2012 21日目の記事です。
 
 あのだよ、
 ワス今さらなんだケドGPGPUに興味がでてきてCUDAなんか調べてたら、お声がかかってこういう書いているわけですよ。
@@ -15,7 +15,7 @@ GPUやろうと思ったのも特になんか作りたいものがあったり�
 
 ## nvprof
 
-これから書くことは別にワスが思いついたことじゃなくて、この発表資料がネタ元になってます。
+これから書くことは別にワスが思いついたことじゃなくて、このへんの発表資料がネタ元になってます。
 
  GPU Performance Analysis and Optimization
 <http://developer.download.nvidia.com/GTC/PDF/GTC2012/PresentationPDF/S0514-GTC2012-GPU-Performance-Analysis.pdf>
@@ -28,7 +28,7 @@ nvprofを使うのは簡単で、このへんのドキュメント<http://docs.n
 正直nvprofの使い方はどーでもよくて、なぜなら以前から環境変数セットして使うプロファイラとかVisual Profiler使えば見えたんだし。といってもワスnvprof以外で試してないんだよね…。
 じゃnvprofなにがうれしいのかって言われたら、ほらあれじゃんか、nvprofお手軽でいいじゃんか！
 
-ここにnvprofの説明があったんだケド、tanakmuraさんの記事<http://d.hatena.ne.jp/w_o/20121211#1355236028>とかぶってんるんで男らしく割愛するよ！
+ここにnvprofの説明があったんだケド、id:w_oさんの記事<http://d.hatena.ne.jp/w_o/20121211#1355236028>とかぶってんるんで男らしく割愛するよ！
 
 （略）
 
