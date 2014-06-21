@@ -1,3 +1,17 @@
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+<channel>
+<link>http://portal.nifty.com/cs/stream/list/1.htm</link>
+<title>デイリーポータルZラジオ</title>
+<description>
+<![CDATA[ デイリーポータルZがお送りするラジオです ]]>
+</description>
+<lastBuildDate>Sat, 21 Jun 2014 18:06:42 +0900</lastBuildDate>
+<copyright>デイリーポータルZ</copyright>
+<language>ja</language>
+<itunes:summary>
+<![CDATA[ デイリーポータルZがお送りするラジオです ]]>
+</itunes:summary>
+<itunes:author>デイリーポータルZ</itunes:author>
 <item>
 <link>
 http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
@@ -3177,3 +3191,4 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 </itunes:summary>
 <itunes:author>デイリーポータルZ</itunes:author>
 </item>
+</channel></rss>
