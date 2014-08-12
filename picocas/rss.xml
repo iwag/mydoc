@@ -718,4 +718,38 @@ http://d.hatena.ne.jp/iandme/</link>
 </itunes:summary>
 <itunes:author>iandme</itunes:author>
 </item>
+<item>
+<link>
+http://d.hatena.ne.jp/iandme/</link>
+<title>
+	<![CDATA[ 第0回 昼下がりラジオ part 2 / 2  ]]>
+</title>
+<description>
+	<![CDATA[ 第0回 昼下がりラジオ part 2 / 2  ]]>
+</description>
+<pubDate>Tue, 4 April 2012 00:00:00 +0000</pubDate>
+<copyright>iandme</copyright>
+<enclosure url="http://www.t-p.jp/podcast/20120412-02.mp3" length="0" type="audio/mpeg"/>
+<itunes:summary>
+</itunes:summary>
+<itunes:author>iandme</itunes:author>
+</item>
+<item>
+<link>
+http://d.hatena.ne.jp/iandme/</link>
+<title>
+	<![CDATA[ 第0回 昼下がりラジオ part 1 / 2  ]]>
+</title>
+<description>
+	<![CDATA[ 第0回 昼下がりラジオ part 1 / 2  ]]>
+</description>
+<pubDate>Tue, 4 April 2012 00:00:00 +0000</pubDate>
+<copyright>iandme</copyright>
+<enclosure url="http://www.t-p.jp/podcast/20120412-01.mp3" length="0" type="audio/mpeg"/>
+<itunes:summary>
+</itunes:summary>
+<itunes:author>iandme</itunes:author>
+</item>
+
+
 </channel></rss>
