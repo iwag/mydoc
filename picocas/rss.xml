@@ -1,6 +1,9 @@
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
 <channel>
 <title>@IDA_10 x @miyaokaのピコピコキャスト</title><link>http://d.hatena.ne.jp/iandme/</link><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/ida10_miyaoka" /><description>@IDA_10 x @miyaokaのピコピコキャスト</description><language>en</language><managingEditor>noemail@noemail.org (iandme)</managingEditor><lastBuildDate>Sun, 18 May 2014 04:07:22 PDT</lastBuildDate><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://feeds.feedburner.com/ida10_miyaoka" /><feedburner:info uri="ida10_miyaoka" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>(C) http://d.hatena.ne.jp/iandme/</media:copyright><media:thumbnail url="http://www.t-p.jp/podcast/ida10_300x300.jpg" /><media:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Games &amp; Hobbies/Video Games</media:category><itunes:owner><itunes:email>noemail@noemail.org</itunes:email><itunes:name>iandme</itunes:name></itunes:owner><itunes:author>iandme</itunes:author><itunes:explicit>no</itunes:explicit><itunes:image href="http://www.t-p.jp/podcast/ida10_300x300.jpg" /><itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords><itunes:subtitle>picopicocast</itunes:subtitle><itunes:summary>@ida_10と@miyaokaのゲームトーク。詳細ログは http://d.hatena.ne.jp/iandme/</itunes:summary><itunes:category text="Games &amp; Hobbies"><itunes:category text="Video Games" /></itunes:category><image><url>http://www.t-p.jp/podcast/ida10_80x80.jpg</url></image>
+<item>
+<link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第42回 第二部：最近のゲームモデルと、最近やりたいゲーム ]]>
 </title>
@@ -750,6 +753,4 @@ http://d.hatena.ne.jp/iandme/</link>
 </itunes:summary>
 <itunes:author>iandme</itunes:author>
 </item>
-
-
 </channel></rss>
