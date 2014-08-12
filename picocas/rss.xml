@@ -1,21 +1,6 @@
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
 <channel>
-<link>http://portal.nifty.com/cs/stream/list/1.htm</link>
-<title>ピコピコキャストラジオ</title>
-<description>
-<![CDATA[ ピコピコキャストがお送りするラジオです ]]>
-</description>
-<lastBuildDate>Sat, 21 Jun 2014 18:06:42 +0900</lastBuildDate>
-<copyright>ピコピコキャスト</copyright>
-<language>ja</language>
-<itunes:summary>
-<![CDATA[ ピコピコキャストがお送りするラジオです ]]>
-</itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
-<item>
-<link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+<title>@IDA_10 x @miyaokaのピコピコキャスト</title><link>http://d.hatena.ne.jp/iandme/</link><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/ida10_miyaoka" /><description>@IDA_10 x @miyaokaのピコピコキャスト</description><language>en</language><managingEditor>noemail@noemail.org (iandme)</managingEditor><lastBuildDate>Sun, 18 May 2014 04:07:22 PDT</lastBuildDate><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://feeds.feedburner.com/ida10_miyaoka" /><feedburner:info uri="ida10_miyaoka" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>(C) http://d.hatena.ne.jp/iandme/</media:copyright><media:thumbnail url="http://www.t-p.jp/podcast/ida10_300x300.jpg" /><media:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Games &amp; Hobbies/Video Games</media:category><itunes:owner><itunes:email>noemail@noemail.org</itunes:email><itunes:name>iandme</itunes:name></itunes:owner><itunes:author>iandme</itunes:author><itunes:explicit>no</itunes:explicit><itunes:image href="http://www.t-p.jp/podcast/ida10_300x300.jpg" /><itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords><itunes:subtitle>picopicocast</itunes:subtitle><itunes:summary>@ida_10と@miyaokaのゲームトーク。詳細ログは http://d.hatena.ne.jp/iandme/</itunes:summary><itunes:category text="Games &amp; Hobbies"><itunes:category text="Video Games" /></itunes:category><image><url>http://www.t-p.jp/podcast/ida10_80x80.jpg</url></image>
 <title>
 <![CDATA[ 第42回 第二部：最近のゲームモデルと、最近やりたいゲーム ]]>
 </title>
@@ -23,16 +8,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第42回 第二部：最近のゲームモデルと、最近やりたいゲーム ]]>
 </description>
 <pubDate>Sun, 18 May 2014 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20140518-02.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第41回 dokidokiアメリカ★ナイツ第一部：世界のクリエイティブが大集合（民家に） ]]>
 </title>
@@ -40,16 +24,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第41回 dokidokiアメリカ★ナイツ第一部：世界のクリエイティブが大集合（民家に） ]]>
 </description>
 <pubDate>Sun, 18 May 2014 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20140518-01.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第40回 『アナと雪の女王』を今度は吹替版でディズニーおじさんと語る。『ウォルト・ディズニーの約束』も ]]>
 </title>
@@ -57,16 +40,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第40回 『アナと雪の女王』を今度は吹替版でディズニーおじさんと語る。『ウォルト・ディズニーの約束』も ]]>
 </description>
 <pubDate>Sun, 6 Apr 2014 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20140406.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第39回 観てから聞こう！ディズニー映画『アナと雪の女王』を語る2時間半 ]]>
 </title>
@@ -74,16 +56,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第39回 観てから聞こう！ディズニー映画『アナと雪の女王』を語る2時間半 ]]>
 </description>
 <pubDate>Sun, 16 Mar 2014 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20140316.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第38回 ゲームモゴモゴからたかなべさんをお迎えして、クイズdeニャンニャンを語る節分回 ]]>
 </title>
@@ -91,16 +72,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第38回 ゲームモゴモゴからたかなべさんをお迎えして、クイズdeニャンニャンを語る節分回 ]]>
 </description>
 <pubDate>Mon, 3 Feb 2014 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20140203.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第37回 年末スペシャル。ステルス強盗ゲームMonacoの話 ]]>
 </title>
@@ -108,16 +88,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第37回 年末スペシャル。ステルス強盗ゲームMonacoの話 ]]>
 </description>
 <pubDate>Mon, 30 Dec 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20131230.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第36回 2013年を振り返るトーク。飴も戦車も引退します ]]>
 </title>
@@ -125,16 +104,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第36回 2013年を振り返るトーク。飴も戦車も引退します ]]>
 </description>
 <pubDate>Sun, 8 Dec 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20131208-02.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第35回 本編前雑談トーク。ディズニー映画『Frozen』激プッシュのめぐみさんが語るアニメ話 ]]>
 </title>
@@ -142,16 +120,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第35回 本編前雑談トーク。ディズニー映画『Frozen』激プッシュのめぐみさんが語るアニメ話 ]]>
 </description>
 <pubDate>Sun, 8 Dec 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20131208-01.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第34回 Cookie Clicker、rain、WoTなどの話 ]]>
 </title>
@@ -159,16 +136,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第34回 Cookie Clicker、rain、WoTなどの話 ]]>
 </description>
 <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20131014.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第33回 Mount&Blade2 製作発表一周年&待望の続報公開記念トーク！ ]]>
 </title>
@@ -176,16 +152,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第33回 Mount&Blade2 製作発表一周年&待望の続報公開記念トーク！ ]]>
 </description>
 <pubDate>Mon, 7 Oct 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20131007.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第32回 アメリカ滞在総括編 その2 全般的に振り返る ]]>
 </title>
@@ -193,16 +168,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第32回 アメリカ滞在総括編 その2 全般的に振り返る ]]>
 </description>
 <pubDate>Sat, 17 Aug 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130817-02.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第31回 アメリカ滞在総括編 その1 サーカスの話 ]]>
 </title>
@@ -210,33 +184,31 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第31回 アメリカ滞在総括編 その1 サーカスの話 ]]>
 </description>
 <pubDate>Sat, 17 Aug 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130817-01.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
-<![CDATA[ 第30回 アメリカの西の端の灯台から『The Last of Us』をネタバレで語り尽くす、音楽性の原点に立ち返ったピコピコキャスト ]]>
+<![CDATA[ 第30回 アメリカの西の端の灯台から『The Last of Us』をネタバレで語り尽くす、音楽性の原点に立ち返ったiandme ]]>
 </title>
 <description>
-<![CDATA[ 第30回 アメリカの西の端の灯台から『The Last of Us』をネタバレで語り尽くす、音楽性の原点に立ち返ったピコピコキャスト ]]>
+<![CDATA[ 第30回 アメリカの西の端の灯台から『The Last of Us』をネタバレで語り尽くす、音楽性の原点に立ち返ったiandme ]]>
 </description>
 <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130816.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第29回 ピクサー・アニメーション・スタジオに行ってきました ]]>
 </title>
@@ -244,16 +216,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第29回 ピクサー・アニメーション・スタジオに行ってきました ]]>
 </description>
 <pubDate>Thu, 15 Aug 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130815.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第28回 ロサンゼルスからディズニー大好きおじさんを迎える回 ]]>
 </title>
@@ -261,16 +232,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第28回 ロサンゼルスからディズニー大好きおじさんを迎える回 ]]>
 </description>
 <pubDate>Tue, 13 Aug 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130813.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第27回 カリフォルニアの州都サクラメントからパシフィック・リムを語る歴史大好きキャスト ]]>
 </title>
@@ -278,16 +248,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第27回 カリフォルニアの州都サクラメントからパシフィック・リムを語る歴史大好きキャスト ]]>
 </description>
 <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130812.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第26回 アメリカ西海岸の遊園地からお送りする、西洋カーニバルと東洋縁日文化 ]]>
 </title>
@@ -295,16 +264,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第26回 アメリカ西海岸の遊園地からお送りする、西洋カーニバルと東洋縁日文化 ]]>
 </description>
 <pubDate>Wed, 7 Aug 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130807.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第25回 元ロシア帝国領の砦からお送りする、文化的没入感、ゲームをゲーム化する話など ]]>
 </title>
@@ -312,16 +280,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第25回 元ロシア帝国領の砦からお送りする、文化的没入感、ゲームをゲーム化する話など ]]>
 </description>
 <pubDate>Mon, 5 Aug 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130805.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第24回 サンフランシスコからクールジャパンを語る、きゃりーぱみゅぱみゅ絶叫回 ]]>
 </title>
@@ -329,16 +296,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第24回 サンフランシスコからクールジャパンを語る、きゃりーぱみゅぱみゅ絶叫回 ]]>
 </description>
 <pubDate>Sun, 28 Jul 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130728.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第23回 ゲーセン話その2 ]]>
 </title>
@@ -346,16 +312,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第23回 ゲーセン話その2 ]]>
 </description>
 <pubDate>Wed, 24 Jul 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130724.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第22回 難病少女も思わず昇天！ ゲーセンファーストデート話 ]]>
 </title>
@@ -363,16 +328,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第22回 難病少女も思わず昇天！ ゲーセンファーストデート話 ]]>
 </description>
 <pubDate>Tue, 23 Jul 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130723.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第21回 お便りありがとう反省会 ]]>
 </title>
@@ -380,16 +344,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第21回 お便りありがとう反省会 ]]>
 </description>
 <pubDate>Mon, 22 Jul 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130722.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第20回 ピコキャスメジャー化を考える回。訪米記念スペシャル！ ]]>
 </title>
@@ -397,16 +360,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第20回 ピコキャスメジャー化を考える回。訪米記念スペシャル！ ]]>
 </description>
 <pubDate>Sat, 20 Jul 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130720.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第19回 いつかみた夢は叶うのか？E3にみるビデオゲームの終わりと始まり ]]>
 </title>
@@ -414,16 +376,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第19回 いつかみた夢は叶うのか？E3にみるビデオゲームの終わりと始まり ]]>
 </description>
 <pubDate>Sun, 30 Jun 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130630-02.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第18回 再び見つめ直すキャンクラ。人生半ばにしてキャンクラもまた半ばなり ]]>
 </title>
@@ -431,16 +392,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第18回 再び見つめ直すキャンクラ。人生半ばにしてキャンクラもまた半ばなり ]]>
 </description>
 <pubDate>Sun, 30 Jun 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130630-01.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第17回 夢と不満が交錯する『バイオショック インフィニット』 変わらない結論と終わり無きぐだぐだトーク ]]>
 </title>
@@ -448,16 +408,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第17回 夢と不満が交錯する『バイオショック インフィニット』 変わらない結論と終わり無きぐだぐだトーク ]]>
 </description>
 <pubDate>Sun, 9 Jun 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130609.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第16.5回 キャンクラの反動で夢いっぱいなゲームを語る余談トーク ]]>
 </title>
@@ -465,16 +424,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第16.5回 キャンクラの反動で夢いっぱいなゲームを語る余談トーク ]]>
 </description>
 <pubDate>Sun, 2 Jun 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130602-02.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第16回 キャンクラをめぐるリベンジトーク。人は飴を砕いて幸せになれるのか？ ]]>
 </title>
@@ -482,16 +440,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第16回 キャンクラをめぐるリベンジトーク。人は飴を砕いて幸せになれるのか？ ]]>
 </description>
 <pubDate>Sun, 2 Jun 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130602.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第15回 私はこれでパズドラをやめました！キャンクラことCandy Crush Saga vs. 苦行ゲー。そしてたけしの挑戦状に見るインディペンデンス魂とM&B2のゆくえ ]]>
 </title>
@@ -499,16 +456,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第15回 私はこれでパズドラをやめました！キャンクラことCandy Crush Saga vs. 苦行ゲー。そしてたけしの挑戦状に見るインディペンデンス魂とM&B2のゆくえ ]]>
 </description>
 <pubDate>Wed, 1 May 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130501.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第14回 ゲームとディズニーとあふれる涙。『シュガー・ラッシュ』ネタバレ全開トークスペシャル！ ]]>
 </title>
@@ -516,16 +472,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第14回 ゲームとディズニーとあふれる涙。『シュガー・ラッシュ』ネタバレ全開トークスペシャル！ ]]>
 </description>
 <pubDate>Sat, 30 Mar 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130330.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第13回 イダテン来日スペシャル！話題のパズドラから映画とゲーム文化まで語るゲーム脳な2時間半 ]]>
 </title>
@@ -533,16 +488,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第13回 イダテン来日スペシャル！話題のパズドラから映画とゲーム文化まで語るゲーム脳な2時間半 ]]>
 </description>
 <pubDate>Thu, 7 Mar 2013 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20130307.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第12回 遂にピコキャス発のゲーム開発。数値のモックだけで語り尽くす怒涛の3時間スペシャル！ ]]>
 </title>
@@ -550,16 +504,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第12回 遂にピコキャス発のゲーム開発。数値のモックだけで語り尽くす怒涛の3時間スペシャル！ ]]>
 </description>
 <pubDate>Fri, 23 Nov 2012 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20121123.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第11回 文字と静止画だけのティーザーでもご飯3杯はいける！ Mount&Blade II 発表号外スペシャル ]]>
 </title>
@@ -567,16 +520,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第11回 文字と静止画だけのティーザーでもご飯3杯はいける！ Mount&Blade II 発表号外スペシャル ]]>
 </description>
 <pubDate>Mon, 1 Oct 2012 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20121001.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第10回 北米市場は貰った！ 鮭ゲーでミリオン大勝利の巻。Majesty 2もあるよ  ]]>
 </title>
@@ -584,16 +536,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第10回 北米市場は貰った！ 鮭ゲーでミリオン大勝利の巻。Majesty 2もあるよ  ]]>
 </description>
 <pubDate>Tue, 25 Sep 2012 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20120925.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第9回 早くもGotY2012確定！ イダテン激プッシュのDouble Dragon: Neon特集 ]]>
 </title>
@@ -601,16 +552,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第9回 早くもGotY2012確定！ イダテン激プッシュのDouble Dragon: Neon特集 ]]>
 </description>
 <pubDate>Fri, 21 Sep 2012 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20120921.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第8回 みやおか最新ゲーム事情 ]]>
 </title>
@@ -618,16 +568,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第8回 みやおか最新ゲーム事情 ]]>
 </description>
 <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20120823-02.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第7回 ポケモンの陰謀 - 人類滅亡計画の真実とは!? ]]>
 </title>
@@ -635,16 +584,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第7回 ポケモンの陰謀 - 人類滅亡計画の真実とは!? ]]>
 </description>
 <pubDate>Thu, 23 Aug 2012 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20120823-01.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第6回 アメリカ生活振り返りトーク ]]>
 </title>
@@ -652,16 +600,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第6回 アメリカ生活振り返りトーク ]]>
 </description>
 <pubDate>Mon, 6 Aug 2012 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20120806.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第5回 アメリカで焚き火を囲むトーク ]]>
 </title>
@@ -669,16 +616,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第5回 アメリカで焚き火を囲むトーク ]]>
 </description>
 <pubDate>Fri, 3 Aug 2012 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20120803.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第4回 DayZなどゾンビサバイバルゲーム ]]>
 </title>
@@ -686,16 +632,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第4回 DayZなどゾンビサバイバルゲーム ]]>
 </description>
 <pubDate>Thu, 28 Jun 2012 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20120628.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第3回 E3 2012のイダテン個人的反省会 ]]>
 </title>
@@ -703,16 +648,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第3回 E3 2012のイダテン個人的反省会 ]]>
 </description>
 <pubDate>Sun, 24 Jun 2012 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20120624.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第2回 E3 2012の気になるタイトルについて ]]>
 </title>
@@ -720,16 +664,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第2回 E3 2012の気になるタイトルについて ]]>
 </description>
 <pubDate>Sat, 2 Jun 2012 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20120602.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第1回 Journeyについて（前編） ]]>
 </title>
@@ -737,16 +680,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第1回 Journeyについて（前編） ]]>
 </description>
 <pubDate>Tue, 15 May 2012 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20120515-01.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 第1回 Journeyについて（後編） ]]>
 </title>
@@ -754,16 +696,15 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 第1回 Journeyについて（後編） ]]>
 </description>
 <pubDate>Tue, 15 May 2012 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20120515-02.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
-</link>
+http://d.hatena.ne.jp/iandme/</link>
 <title>
 <![CDATA[ 創刊準備号 タイトルと議題を決めよう ]]>
 </title>
@@ -771,10 +712,10 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <![CDATA[ 創刊準備号 タイトルと議題を決めよう ]]>
 </description>
 <pubDate>Tue, 8 May 2012 00:00:00 +0000</pubDate>
-<copyright>ピコピコキャスト</copyright>
+<copyright>iandme</copyright>
 <enclosure url="http://www.t-p.jp/podcast/20120508.mp3" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 </channel></rss>

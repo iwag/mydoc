@@ -39,7 +39,7 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <description>
 <![CDATA[ #{title} ]]>
 </description>
-<pubDate>#{ mp3.match(/(20\d+).+mp3/); Date.parse($1).rfc822}</pubDate>
+<pubDate>#{ mp3.match(/(20\d\d\d\d\d\d).+mp3/); Date.parse($1).rfc822}</pubDate>
 <copyright>ピコピコキャスト</copyright>
 <enclosure url="#{mp3}" length="0" type="audio/mpeg"/>
 <itunes:summary>
