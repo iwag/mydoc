@@ -1,6 +1,27 @@
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
-<channel>
-<title>@IDA_10 x @miyaokaのピコピコキャスト</title><link>http://d.hatena.ne.jp/iandme/</link><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/ida10_miyaoka" /><description>@IDA_10 x @miyaokaのピコピコキャスト</description><language>en</language><managingEditor>noemail@noemail.org (iandme)</managingEditor><lastBuildDate>Sun, 18 May 2014 04:07:22 PDT</lastBuildDate><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://feeds.feedburner.com/ida10_miyaoka" /><feedburner:info uri="ida10_miyaoka" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>(C) http://d.hatena.ne.jp/iandme/</media:copyright><media:thumbnail url="http://www.t-p.jp/podcast/ida10_300x300.jpg" /><media:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Games &amp; Hobbies/Video Games</media:category><itunes:owner><itunes:email>noemail@noemail.org</itunes:email><itunes:name>iandme</itunes:name></itunes:owner><itunes:author>iandme</itunes:author><itunes:explicit>no</itunes:explicit><itunes:image href="http://www.t-p.jp/podcast/ida10_300x300.jpg" /><itunes:keywords>ida10,miyaoka,ピコピコキャスト,picopicocast,pico2cast,pico</itunes:keywords><itunes:subtitle>picopicocast</itunes:subtitle><itunes:summary>@ida_10と@miyaokaのゲームトーク。詳細ログは http://d.hatena.ne.jp/iandme/</itunes:summary><itunes:category text="Games &amp; Hobbies"><itunes:category text="Video Games" /></itunes:category><image><url>http://www.t-p.jp/podcast/ida10_80x80.jpg</url></image>
+	<channel>
+		<title>@IDA_10 x @miyaokaのピコピコキャスト</title>
+		<link>http://d.hatena.ne.jp/iandme/</link>
+		<language>ja</language>
+		<copyright>iandme</copyright>
+		<itunes:subtitle>ゲーム、映画、アメリカ文化などのトーク</itunes:subtitle>
+		<itunes:author>iandme</itunes:author>
+		<itunes:summary>主にゲーム、映画、アメリカ文化などについてトークしています。サイトの方では内容を書き起こしたまとめや補足が読めます http://d.hatena.ne.jp/iandme/</itunes:summary>
+		<description>主にゲーム、映画、アメリカ文化などについてトークしています。サイトの方では内容を書き起こしたまとめや補足が読めます http://d.hatena.ne.jp/iandme/</description>
+		<itunes:owner>
+			<itunes:name>iandme</itunes:name>
+			<itunes:email>piko2cast@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="http://www.t-p.jp/podcast/ida10_600x600.jpg"/>
+		<itunes:category text="Games &amp; Hobbies">
+			<itunes:category text="Video Games" />
+		</itunes:category>
+		<itunes:explicit>clean</itunes:explicit>
+		<image>
+			<url>http://www.t-p.jp/podcast/ida10_600x600.jpg</url>
+			<title>ピコピコキャスト</title>
+			<link>http://d.hatena.ne.jp/iandme/</link>
+		</image>
 <item>
 <link>
 http://d.hatena.ne.jp/iandme/</link>

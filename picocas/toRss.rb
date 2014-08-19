@@ -5,19 +5,30 @@ f2 = File.open(ARGV[1])
 head = <<EOS
 <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
 <channel>
-<link>http://portal.nifty.com/cs/stream/list/1.htm</link>
-<title>ピコピコキャストラジオ</title>
-<description>
-<![CDATA[ ピコピコキャストがお送りするラジオです ]]>
-</description>
-<lastBuildDate>Sat, 21 Jun 2014 18:06:42 +0900</lastBuildDate>
-<copyright>ピコピコキャスト</copyright>
+<title>@IDA_10 x @miyaokaのピコピコキャスト</title>
+<link>http://d.hatena.ne.jp/iandme/</link>
 <language>ja</language>
-<itunes:summary>
-<![CDATA[ ピコピコキャストがお送りするラジオです ]]>
-</itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<copyright>iandme</copyright>
+<itunes:subtitle>ゲーム、映画、アメリカ文化などのトーク</itunes:subtitle>
+<itunes:author>iandme</itunes:author>
+<itunes:summary>主にゲーム、映画、アメリカ文化などについてトークしています。サイトの方では内容を書き起こしたまとめや補足が読めます http://d.hatena.ne.jp/iandme/</itunes:summary>
+<description>主にゲーム、映画、アメリカ文化などについてトークしています。サイトの方では内容を書き起こしたまとめや補足が読めます http://d.hatena.ne.jp/iandme/</description>
+<itunes:owner>
+<itunes:name>iandme</itunes:name>
+<itunes:email>piko2cast@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="http://www.t-p.jp/podcast/ida10_600x600.jpg"/>
+<itunes:category text="Games &amp; Hobbies">
+<itunes:category text="Video Games" />
+</itunes:category>
+<itunes:explicit>clean</itunes:explicit>
+<image>
+<url>http://www.t-p.jp/podcast/ida10_600x600.jpg</url>
+<title>ピコピコキャスト</title>
+<link>http://d.hatena.ne.jp/iandme/</link>
+</image>
 EOS
+## FIX IT
 
 puts head
 
@@ -31,7 +42,6 @@ while title = f1.gets
   node = <<EOS
 <item>
 <link>
-http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 </link>
 <title>
 <![CDATA[ #{title} ]]>
@@ -44,7 +54,7 @@ http://portal.nifty.com/cs/stream/detail/140512164099/1.htm
 <enclosure url="#{mp3}" length="0" type="audio/mpeg"/>
 <itunes:summary>
 </itunes:summary>
-<itunes:author>ピコピコキャスト</itunes:author>
+<itunes:author>iandme</itunes:author>
 </item>
 EOS
   puts node
