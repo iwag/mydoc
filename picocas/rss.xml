@@ -2474,12 +2474,166 @@ http://d.hatena.ne.jp/iandme/20140818/1409003323
 
 <item>
 <link>
-http://d.hatena.ne.jp/iandme/</link>
+http://d.hatena.ne.jp/iandme/20140518/1400411193
+</link>
 <title>
 <![CDATA[ 第42回 第二部：最近のゲームモデルと、最近やりたいゲーム ]]>
 </title>
 <description>
-<![CDATA[ 第42回 第二部：最近のゲームモデルと、最近やりたいゲーム ]]>
+<![CDATA[
+<div class="section">
+<p><span style="vertical-align:middle;">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="220" height="25" id="mp3_3" align="middle" style="vertical-align:bottom">
+<param name="flashVars" value="mp3Url=http://www.t-p.jp/podcast/20140518-02.mp3">
+<param name="allowScriptAccess" value="sameDomain">
+<param name="movie" value="http://g.hatena.ne.jp/tools/mp3_3.swf">
+<param name="quality" value="high">
+<param name="bgcolor" value="#ffffff">
+<param name="wmode" value="transparent">
+<embed src="http://g.hatena.ne.jp/tools/mp3_3.swf" flashvars="mp3Url=http://www.t-p.jp/podcast/20140518-02.mp3" quality="high" wmode="transparent" bgcolor="#ffffff" width="220" height="25" name="mp3_3" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" style="vertical-align:bottom">
+</object>
+<a href="http://www.t-p.jp/podcast/20140518-02.mp3"><img src="http://g.hatena.ne.jp/images/podcasting.gif" title="Download" alt="Download" border="0" style="border:0px;vertical-align:bottom;"></a>
+</span>
+<br></p>
+<ul>
+<li>登場人物
+<ul>
+<li><a href="https://twitter.com/IDA_10"><img src="http://pbs.twimg.com/profile_images/56777836/IDA-10_mini.jpg"></a> イダテン</li>
+<li><a href="https://twitter.com/miyaoka"><img src="http://pbs.twimg.com/profile_images/2774146083/128e5791dbcad9bee2f66aa32633674d_mini.png"></a> みやおか</li>
+<br></ul>
+</li>
+</ul>
+<h4> [00:00] 携帯ゲームのモデル</h4><br>
+<ul>
+<li>パラダイムシフト
+<ul>
+<li>売れてるゲームをパクっても複雑化しててパクりきれなくなってきた</li>
+<br></ul>
+</li>
+</ul>
+<h4> [06:10] 面白いと言われているゲームを買ってもプレイに至らない問題</h4><br>
+<ul>
+<li>最近買ってプレイに至ったのはPrisonArchitect
+<ul>
+<li>刑務所を作るサンドボックス的なゲーム</li>
+<li>フレンドが配信していているのを見て、とにかく自分で操作してみたい、という欲が湧いてきた</li>
+<li>そういう行為が今どきっぽいなって思った</li>
+<br></ul>
+</li>
+<li>新しいゲームをとりあえず買うが、プレイに至るのは難しい
+<ul>
+<li>ゲームを遊びたくなったら、確実に楽しみたいので既存の面白かったゲームを設定変えたりしてまた遊んでしまう</li>
+<br></ul>
+</li>
+<li>Monument Valley
+<ul>
+<li>エッシャー風のだまし絵パズル</li>
+<li>スタイリッシュなグラフィックだし、システムもまあ面白そう</li>
+<li>でも、パズルか、というだけでプレイに至らなかった</li>
+<li>10年前とかだと絶賛してそうなゲーム。そういうの今だとやらなくなってる</li>
+<br></ul>
+</li>
+<li>kero blaster
+<ul>
+<li>洞窟物語の開発室Pixelの新作</li>
+<li>むかし洞窟物語はとても楽しんだけど、今ではメトロイドヴァニア、2Dプラットフォーマーというジャンル自体がなんかみやおか的には苦しい</li>
+<li>（※あくまで未プレイの意見です。プレイしたら絶賛するかもしれませんが！！）</li>
+<br></ul>
+</li>
+<li>口先番長</li>
+<br></ul>
+<h4> [23:33] ゲームで何が得られるの、というのが見えてこない</h4><br>
+<ul>
+<li>歴史物
+<ul>
+<li>当時の人生観とか体験できる</li>
+</ul>
+</li>
+<li>古代とか開拓民とかプリミティブな人間社会まで行くと物事の成り立ちを理解できる
+<ul>
+<li>banished</li>
+<br></ul>
+</li>
+</ul>
+<h4> [30:30] 基本無料のゲームにお金を払うとき</h4><br>
+<ul>
+<li>欲望に密接に結びついた感情を起こすことが重要
+<ul>
+<li>そうした感情のためには対戦などが合理的</li>
+<li>逆にそうした欲望モデルでないコンテンツは基本無料の課金モデルに合わず、有料コンテンツ</li>
+<li>もはやそうしたソシャゲーシステム自体をゲームにして観察したい</li>
+<br></ul>
+</li>
+</ul>
+<h4> [34:53] 課題解決をさせるゲームと、課題を見守るゲーム</h4><br>
+<ul>
+<li>タスク処理
+<ul>
+<li>10連ガチャを引いて、新たに育てる課題を得ていく</li>
+<li>記号化されているテトリス。延々とラインを消していたあの行為</li>
+<br></ul>
+</li>
+<li>自分がもうやるのが苦しいと感じるのは「課題解決することを求められている」ゲーム
+<ul>
+<li>自分がやりたいのは課題を見つけて観察するだけ</li>
+<li>現実には課題なんていっぱいあって解決できないものも多い</li>
+<li>解決しなかったらどうなるんだろうな、というのが最近知りたい感じ</li>
+<br></ul>
+</li>
+<li>Prison Architect
+<ul>
+<li>刑務所での囚人管理という課題解決</li>
+<li>開発中ということもあり、パトロールなどを万全にしたら全く問題が起きなくなって超優良刑務所になってしまった</li>
+<li>やはり自分の管理の隙を突かれて、荒れ狂う囚人たちの暴動を見るのが楽しいゲームだなと感じた</li>
+<br></ul>
+</li>
+<li>失敗を見たい
+<ul>
+<li>数値を高めるとか成長させるだけだと物足りなくなっている</li>
+<li>パズルやプラットフォーマーというジャンルでもう自分の求めている物ではないと感じてしまうのは、それらが根本的に課題解決だから</li>
+<li>Mount & Bladeをやらないからこういう気持ちが分からないんだよ！
+<ul>
+<li>いや逆にゲームに求めるものがこういう気持ちになってないとMount & Bladeを楽しめないのかもしれない</li>
+<br></ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4> [50:03] 物の値段がよく分からない</h4><br>
+<ul>
+<li>欲望系以外の感情
+<ul>
+<li>金にならない感情</li>
+<li>懐古／ほのぼの／ほっこりする</li>
+<li>そういうのを表現する場合には、基本有料で制作者の趣旨に賛同してお金を払うスタイル</li>
+<br></ul>
+</li>
+<li>金を払う側としてよく分からない
+<ul>
+<li>Mount & Bladeを数ドルで買ったために、対価がズレてんなーと感じてしまう問題</li>
+<li>みんながいっぱい払えばMount & Blade 2だって出てるはずなのに…！！</li>
+<li>いろんなものが物質からソフトになり、集金もネットによって世界中からというモデルになっていく過渡期ゆえの消費の混乱？</li>
+<li>特にゲームコンテンツ</li>
+<br></ul>
+</li>
+<li>ゲームにお金をどう払うか
+<ul>
+<li>SFCの頃はカセット1本で1万円くらいしてた</li>
+<li>今考えると、なんなの！？って思ってしまう</li>
+<li>金の価値が分かるゲームもやりたい</li>
+<br><br></ul>
+</li>
+</ul>
+<p><hr></p>
+<ul>
+<li>使用曲
+<ul>
+<li><a href="http://moldiloxchips.bandcamp.com/album/the-drifting-classroom" target="_blank">“The Drifting Classroom” (by Moldilox)</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<img src="//feeds.feedburner.com/~r/ida10_miyaoka/~4/nan1015XBxM" height="1" width="1" alt=""/>]]>
 </description>
 <pubDate>Sun, 18 May 2014 00:00:00 +0000</pubDate>
 <copyright>iandme</copyright>
@@ -2490,12 +2644,204 @@ http://d.hatena.ne.jp/iandme/</link>
 </item>
 <item>
 <link>
-http://d.hatena.ne.jp/iandme/</link>
+http://d.hatena.ne.jp/iandme/20140518/1400407056
+</link>
 <title>
 <![CDATA[ 第41回 dokidokiアメリカ★ナイツ第一部：世界のクリエイティブが大集合（民家に） ]]>
 </title>
 <description>
-<![CDATA[ 第41回 dokidokiアメリカ★ナイツ第一部：世界のクリエイティブが大集合（民家に） ]]>
+<![CDATA[
+<div class="section">
+<p><span style="vertical-align:middle;">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="220" height="25" id="mp3_3" align="middle" style="vertical-align:bottom">
+<param name="flashVars" value="mp3Url=http://www.t-p.jp/podcast/20140518-01.mp3">
+<param name="allowScriptAccess" value="sameDomain">
+<param name="movie" value="http://g.hatena.ne.jp/tools/mp3_3.swf">
+<param name="quality" value="high">
+<param name="bgcolor" value="#ffffff">
+<param name="wmode" value="transparent">
+<embed src="http://g.hatena.ne.jp/tools/mp3_3.swf" flashvars="mp3Url=http://www.t-p.jp/podcast/20140518-01.mp3" quality="high" wmode="transparent" bgcolor="#ffffff" width="220" height="25" name="mp3_3" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" style="vertical-align:bottom">
+</object>
+<a href="http://www.t-p.jp/podcast/20140518-01.mp3"><img src="http://g.hatena.ne.jp/images/podcasting.gif" title="Download" alt="Download" border="0" style="border:0px;vertical-align:bottom;"></a>
+</span>
+<br></p>
+<ul>
+<li>登場人物
+<ul>
+<li>レギュラー
+<ul>
+<li><a href="https://twitter.com/IDA_10"><img src="http://pbs.twimg.com/profile_images/56777836/IDA-10_mini.jpg"></a> イダテン</li>
+<li><a href="https://twitter.com/miyaoka"><img src="http://pbs.twimg.com/profile_images/2774146083/128e5791dbcad9bee2f66aa32633674d_mini.png"></a> みやおか</li>
+<li><a href="https://twitter.com/asa10megumi"><img src="https://pbs.twimg.com/profile_images/2667167870/4efe3b63e30159e32683c9e1b4bdfedf_mini.jpeg"></a> めぐみさん（イダテン奥さん）</li>
+<li><a href="https://audioboo.fm/boos/1550670-"><img width="24" src="http://f.st-hatena.com/images/fotolife/i/iandme/20130721/20130721232224.jpg" height="24"></a> ねこ</li>
+<br></ul>
+</li>
+<li>スペシャルゲスト
+<ul>
+<li><a href="https://twitter.com/masakawa"><img src="https://pbs.twimg.com/profile_images/1341901616/twitter_icon__mini.jpg"></a> 川村真司クリエイティブディレクター（イダテンみやおかと同窓生）</li>
+<li><a href="https://twitter.com/gishicho"><img src="https://pbs.twimg.com/profile_images/378800000366300070/afce750f693bb22e8aba38e6a616524e_mini.jpeg"></a> 技師長さん（スーパージーニアスエンジニア。イダテン家近所）</li>
+<br></ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4> [5:35] 基本に立ち返って最近遊んでるゲームの話</h4><br>
+<ul>
+<li>技師長さん
+<ul>
+<li>カードゲーム：フューチャーカード バディファイト</li>
+<li>花札</li>
+</ul>
+</li>
+<li>めぐみさん
+<ul>
+<li>アメリカ人はトランプ意外に知らない話</li>
+<br></ul>
+</li>
+</ul>
+<h4> [15:10] 最近の子供向けに作られた商業的なカードゲームはすぐバランスが破綻してしまう</h4><br>
+<ul>
+<li>インフレ対策
+<ul>
+<li>ジョジョは毎回ルール作ってる</li>
+<li>全部デス・サーティーンの夢だったという話にすればいつでも第三部まで巻き戻せる（川村が学生時代から言ってる案）</li>
+<br></ul>
+</li>
+<li>ローカルルール
+<ul>
+<li>大貧民でデッキを増やす
+<ul>
+<li>バンバン革命が出せる。アツい</li>
+<li>混乱した国の様相</li>
+<br></ul>
+</li>
+</ul>
+</li>
+<li>別の物同士を繋ぐ
+<ul>
+<li>レゴやダイヤブロックを繋ぐピースを3Dプリンタで作成</li>
+<li>ぷよぷよテトリス</li>
+<li>MARVEL VS. CAPCOM</li>
+<li>花札vsトランプみたいな</li>
+<li>寿司麻雀</li>
+<br></ul>
+</li>
+</ul>
+<h4> [22:53] 最近やってるゲームの話2</h4><br>
+<ul>
+<li>川村
+<ul>
+<li>Glorious Leader！
+<ul>
+<li><a href="http://gigazine.net/news/20140514-glorious-leader/" target="_blank">北朝鮮の金正恩氏が迫り来る敵を次々と倒しまくる超絶無双アクションゲーム</a></li>
+</ul>
+</li>
+<li>Threes</li>
+<li>巨大コインドーザー
+<ul>
+<li>ロボットアームは要ライセンス</li>
+<li>セクシーな動きを要求するCD</li>
+<br></ul>
+</li>
+</ul>
+</li>
+<li>技師長さん
+<ul>
+<li>Skylanders
+<ul>
+<li>フィギュアを使ったゲーム</li>
+<br></ul>
+</li>
+</ul>
+</li>
+<li>イダテン
+<ul>
+<li>パズドラを再び
+<ul>
+<li>電車の中でみんなケータイいじってる</li>
+<li>アメリカで今やっと一般層にリーチしてきた</li>
+<li>電車の中でやってると声かけられる
+<ul>
+<li>日本だと声かけ事案だよ！</li>
+<li>アメリカなら全然知らない人でも話してくるのが普通</li>
+</ul>
+</li>
+<li>バスケのドリブルの練習をしていた人が3人、ブレイブフロンティアを薦めてきた人が3人。バスケと同じくらいすごいゲーム</li>
+<br></ul>
+</li>
+</ul>
+</li>
+<li>みやおか
+<ul>
+<li>Prison Architect</li>
+<li>Mount & Blade</li>
+<br></ul>
+</li>
+</ul>
+<h4> [43:08] インフレとイノベーション</h4><br>
+<ul>
+<li>トランプの話ついでに、FarCry3でのポーカーの話
+<ul>
+<li>ポーカーは良い役がそのまま点数化されるゲームではなく、相手をのせて賭けに打ち勝つゲーム</li>
+<br></ul>
+</li>
+<li>インフレさせる
+<ul>
+<li>麻雀のリーチやドラは戦後に普及したもの。むかし昭和の麻雀解説本を読んだらこんなにアツく画期的になったと紹介されていた</li>
+<li>Draw4をDraw400にしたら</li>
+<li>デッキを増やした大貧民は革命が起きやすくなるというのがいい
+<ul>
+<li>ヨハネスブルグとか名づけたい</li>
+<li>インフレゲーム、ジンバブエ</li>
+<br></ul>
+</li>
+</ul>
+</li>
+<li>チェスボクシング
+<ul>
+<li>ハチワンダイバーでやってた</li>
+<br></ul>
+</li>
+</ul>
+<h4> [56:18] アメリカ人の買い物文化</h4><br>
+<ul>
+<li>スーパーで食料を買ってレジ待ちの間に開けて食べちゃう文化
+<ul>
+<li>エクストリームな目撃談としてはインド人の家族がピクニックみたいに食べてた</li>
+<li>レジで胃薬とドリンクを取ってその場でガーッと飲んだメキシカンが「うわ、これ炭酸だ」と言いながら精算</li>
+<br></ul>
+</li>
+<li>でもおおっぴらに許されてる感じは…
+<ul>
+<li>あるある</li>
+<li>無いんじゃないの？</li>
+<li>ビッグ・リボウスキとかの描かれ方を見ると、マナー違反と感じる</li>
+<br></ul>
+</li>
+<li>使った電動ヒゲ剃りを返品した奴は許せない
+<ul>
+<li>剃る前からブラウンの広告みたいにいっぱい剃れてる</li>
+<li>イチローがガッツポーズしただけで5点くらい入ったレベル</li>
+<br></ul>
+</li>
+<li>社会システムの欠陥
+<ul>
+<li>スーパーボウルのシーズンではデカいテレビを買って、見終わったら返品するので電器屋さんが困ってる</li>
+<li>ドレスを買って出席したら返品</li>
+<li>返品しても現金ではなくお店のポイントで返すとか対策もある</li>
+<br><br></ul>
+</li>
+</ul>
+<p><hr></p>
+<ul>
+<li>使用曲
+<ul>
+<li><a href="http://moldiloxchips.bandcamp.com/album/the-drifting-classroom" target="_blank">“The Drifting Classroom” (by Moldilox)</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<img src="//feeds.feedburner.com/~r/ida10_miyaoka/~4/mCiWaZ1mts8" height="1" width="1" alt=""/>]]>
 </description>
 <pubDate>Sun, 18 May 2014 00:00:00 +0000</pubDate>
 <copyright>iandme</copyright>
@@ -2506,12 +2852,260 @@ http://d.hatena.ne.jp/iandme/</link>
 </item>
 <item>
 <link>
-http://d.hatena.ne.jp/iandme/</link>
+http://d.hatena.ne.jp/iandme/20140518/1400411193
+</link>
 <title>
 <![CDATA[ 第40回 『アナと雪の女王』を今度は吹替版でディズニーおじさんと語る。『ウォルト・ディズニーの約束』も ]]>
 </title>
 <description>
-<![CDATA[ 第40回 『アナと雪の女王』を今度は吹替版でディズニーおじさんと語る。『ウォルト・ディズニーの約束』も ]]>
+<![CDATA[
+<div class="section">
+<p><span style="vertical-align:middle;">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="220" height="25" id="mp3_3" align="middle" style="vertical-align:bottom">
+<param name="flashVars" value="mp3Url=http://www.t-p.jp/podcast/20140406.mp3">
+<param name="allowScriptAccess" value="sameDomain">
+<param name="movie" value="http://g.hatena.ne.jp/tools/mp3_3.swf">
+<param name="quality" value="high">
+<param name="bgcolor" value="#ffffff">
+<param name="wmode" value="transparent">
+<embed src="http://g.hatena.ne.jp/tools/mp3_3.swf" flashvars="mp3Url=http://www.t-p.jp/podcast/20140406.mp3" quality="high" wmode="transparent" bgcolor="#ffffff" width="220" height="25" name="mp3_3" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" style="vertical-align:bottom">
+</object>
+<a href="http://www.t-p.jp/podcast/20140406.mp3"><img src="http://g.hatena.ne.jp/images/podcasting.gif" title="Download" alt="Download" border="0" style="border:0px;vertical-align:bottom;"></a>
+</span>
+<br></p>
+<ul>
+<li>登場人物
+<ul>
+<li><a href="https://twitter.com/IDA_10"><img src="http://pbs.twimg.com/profile_images/56777836/IDA-10_mini.jpg"></a> イダテン</li>
+<li><a href="https://twitter.com/miyaoka"><img src="http://pbs.twimg.com/profile_images/2774146083/128e5791dbcad9bee2f66aa32633674d_mini.png"></a> みやおか</li>
+<li><a href="https://twitter.com/asa10megumi"><img src="https://pbs.twimg.com/profile_images/2667167870/4efe3b63e30159e32683c9e1b4bdfedf_mini.jpeg"></a> めぐみさん（イダテン奥さん）</li>
+<li><a href="https://twitter.com/iwmr"><img src="https://pbs.twimg.com/profile_images/451424412244275201/BszBinsV_mini.jpeg"></a> 咲間岩丸さん（スペシャルゲスト：ディズニー狂。<a href="http://maihamakyo.org/">舞浜狂</a>管理人）</li>
+<br></ul>
+</li>
+</ul>
+<p><span style="font-weight:bold;color:#FF0000;font-size:large;" class="deco">※作品のネタバレ前提で話します。未見の方はぜひ鑑賞してからご覧ください。</span><br></p>
+<h4>『Frozen（アナと雪の女王）』日本語吹き替え版を観て再度語る</h4><br>
+<ul>
+<li>売り上げにこだわる男
+<ul>
+<li>前回の収録時に岩丸さんのツイッターを覗いたら売り上げの話しかしてなかった
+<ul>
+<li>本編内容に触れない話だと売り上げの話しかできない</li>
+<li>ディズニーファンってのはそういう不文律があるの？
+<ul>
+<li>人それぞれ</li>
+</ul>
+</li>
+<li>あーじゃあゲハ民が売り上げにこだわるのもゲーム内容に触れるとネタバレになるからか
+<ul>
+<li>意外にいい話じゃん！</li>
+<li>やさしい人たちだったんだ</li>
+<li>いきなりいい話がでてきた！</li>
+<br></ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>これまでの観賞
+<ul>
+<li>岩丸：3回観た
+<ul>
+<li>映画泥棒ですか！</li>
+<li>字幕2D→吹き替え2D→字幕3D</li>
+</ul>
+</li>
+<li>みやおか：2回
+<ul>
+<li>字幕3D→吹き替え2D</li>
+<br></ul>
+</li>
+</ul>
+</li>
+<li>2回目について
+<ul>
+<li><div class="twitter-detail twitter-detail-left">
+  <div class="twitter-detail-user">
+    <a class="twitter-user-screen-name" href="http://twitter.com/miyaoka">
+      <img src="http://pbs.twimg.com/profile_images/2774146083/128e5791dbcad9bee2f66aa32633674d_normal.png" alt="miyaoka" height="48" width="48" onerror="this.parentNode.replaceChild(document.createTextNode(this.getAttribute('alt')), this);" >
+    </a>
+  </div>
+  <div class="twitter-detail-tweet">
+    <p class="twitter-detail-text">
+      アナ雪吹き替えも観たけど、要素知り尽くした上で2回目、字幕→吹き替え、3D→2D、歌詞についてめぐみさんの説教、というもろもろで初見とはだいぶ別物に感じてしまった。比率的には5:2:2:1くらい
+    </p>
+    <p class="twitter-detail-info">
+      <a href="http://twitter.com/miyaoka/status/450696210353905664" class="twitter-detail-info-permalink"><span class="twitter-detail-info-date">2014-04-01</span> <span class="twitter-detail-info-time">03:08:44</span></a> <span class="twitter-detail-info-source">via <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a></span>
+    </p>
+  </div>
+</div>
+</li>
+<li>謎の比率はなんなの？
+<ul>
+<li>2回目の観賞で個人的に盛り下がってしまった要因の構成比</li>
+<li>吹き替え内容以前に、語り尽くして既に理解している映画だから発見が無くて盛り上がらなかった</li>
+<br></ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><span style="color:#FF0000;" class="deco">※以下、日本語訳詞に対して批判的な意見が多くなりますが、翻訳だけで完璧なローカライズをするのはもちろん無理という前提で、オリジナルの工夫された意味合いからこぼれ落ちたもの、足されたものは何なのかという話をしています。そのへんは文字だけでなくトークを通したニュアンスで汲み取ってもらえればと思います。<br><br>あとディズニー狂の咲間さんならどんな批判でもフォローしてくれるはず…！と思ってガンガンとボールが投げられてました</span><br></p>
+<ul>
+<li>一番印象の違いが出た"Let it go"
+<ul>
+<li>原語版だともう悲しくて悲しくてしょうがなかった</li>
+<li>吹き替え版だとああスッキリせいせいしたという気持ちになってしまったのがまるで違った</li>
+<li>歌単体だけではなくそれまでの流れが違うように感じられる</li>
+<li>2回目の観賞だからという要素もあるかも</li>
+<br></ul>
+</li>
+<li>"Do you want to build a snowman?"
+<ul>
+<li>幼女時代・少女時代・成長後の3パートに分かれているが、特に幼女時代の吹き替えでだいぶ違う印象を受けた
+<ul>
+<li>英語版だと半分諦めながらも誘ってるお互いに悲しいシーンだけど、日本語はだいぶ一方的に見えてウザいという印象</li>
+</ul>
+</li>
+<li>"It doesn't have to be a snowman."
+<ul>
+<li>雪だるまつくろうは、エルサが寝てても起きて遊んでくれる魔法の言葉
+<ul>
+<li>もう雪だるまを作れないんだろうとなんとなく分かってるけど、それでも言わずにはいられない。だから雪だるまじゃなくてもいいよ、と</li>
+</ul>
+</li>
+<li>日本語版だと「雪だるまつくろう　大きな雪だるま」
+<ul>
+<li>さらに追い打ちを掛けるように誘ってしまう</li>
+<br></ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>岩丸製日米歌詞まとめ
+<ul>
+<li>誰作ったのこれ？ 狂ってる！</li>
+<li>1センテンスごとにセルにまとまってて、英語と日本語歌詞と字幕と、…何この音節数って
+<ul>
+<li>岩丸さんこわいわー</li>
+<br></ul>
+</li>
+</ul>
+</li>
+<li>"Go away, Anna."
+<ul>
+<li>日本語だと「あっちいって！アナ」
+<ul>
+<li>イダテン家の三男と末娘が怖がっていた</li>
+<li>ほんとは遊びたいのに遊べなくて悲しそうに言うセリフ</li>
+<li>日本語だとなんで怒ってるの？と子供たちが疑問に感じてた</li>
+</ul>
+</li>
+<li>マシュマロウも城から追い出す時に"Go away!"と言っていて呼応している
+<ul>
+<li>日本語版だと「もう来るなー」</li>
+<br></ul>
+</li>
+</ul>
+</li>
+<li>歌の内容と本編の結びつき
+<ul>
+<li>いい歌があるだけでなくそれが本編にちゃんと結びついているのが良いところ</li>
+<li>日本語版だとそういうところが残されづらい</li>
+<li>"Conceal, don't feel"とか</li>
+<li>そもそも訳詞と本編翻訳で別々のスタッフ</li>
+<br></ul>
+</li>
+<li>『レ・ミゼラブル』の工夫
+<ul>
+<li>ジャン・バルジャンの囚人番号 24601（two-four-six-oh-one）→24653（にー・よん・ろく・ごー・さん）</li>
+<li>フォンティーヌの歌でTigerがやってくるところをオオカミにしてる</li>
+<li>そこまで変えていても歌の魂が無くならないようにしてる</li>
+<li>アナ雪にはそういう感じがしなくて、二人の性格が変わっているように見える</li>
+<br></ul>
+</li>
+<li>欠落だけじゃなくて、足してんじゃん。勝手に
+<ul>
+<li>「そばにいれば支え合える二人で」
+<ul>
+<li>これ今言っちゃ駄目でしょ</li>
+<li>"For the first time in forever" のリプライズで "I finally understand" と歌う意味が無い</li>
+<li>ここでのアナは途方に暮れてるだけでエルサのことを気遣う余裕が無い状況</li>
+<li>それが後で変わるからいい話なのに</li>
+</ul>
+</li>
+<li>咲間さんがフォローしてくれる（3回目）
+<ul>
+<li>一番大事な部分でもったいないなーって</li>
+<li>フォローになってないよ</li>
+</ul>
+</li>
+<li>"Oh I'm such a fool! I can't be free!"→「ひどいわ悲しい」
+<ul>
+<li>誰に対して言ってるの？</li>
+<li>悲しいことを表すために悲しいと言ってしまうのもありえない</li>
+<li>悲しくはなくて自分を責めてる状況</li>
+</ul>
+</li>
+<li>全体を眺めてると訳詞者の中で作られたキャラクターの性格になっている
+<ul>
+<li>原作者と密にやり取りしたって記事を読んだけど、でもちゃんと理解してないなって思った</li>
+</ul>
+</li>
+<li>日本の女性を元気づけたいみたいな意図
+<ul>
+<li>そんな顔してた</li>
+<li>顔で語っちゃ駄目でしょ</li>
+<br></ul>
+</li>
+</ul>
+</li>
+<li>映像とのシンク
+<ul>
+<li>リップシンクにこだわってるけど映像とのシンクはおざなりに</li>
+<li>"Love is an open door" で扉を開ける映像のシーンで「二人だから」→壊滅的に合ってない！</li>
+<li>「二人だから とびら開けて 飛び出せるの」→「とびら開けて 二人だから 飛び出せるの」でいいじゃん</li>
+<br></ul>
+</li>
+<li>"We finish each other's Sandwiches"
+<ul>
+<li>we finish each other's sentencesという慣用句のジョーク。ジンクス遊び</li>
+<br></ul>
+</li>
+<li>日本語の歌は良かった
+<ul>
+<li>"Do you want to build a snowman?"では幼女時代は違和感を覚えつつも、少女時代はシュガー・ラッシュのヴァネロペ役の諸星すみれ、成長後は神田沙也加ですごくしっかりした歌だった</li>
+<li>これで歌詞も良ければ</li>
+<br></ul>
+</li>
+<li>本作における扉
+<ul>
+<li>セリフ、歌詞、映像すべてにおいて重要</li>
+<li>だから"Love is an open door"で「二人だから」とか言ってる場合じゃない</li>
+<li>その後のハンスが扉をシャットアウトして出て行くというシーンにも呼応</li>
+<li>愛の象徴のオラフが扉を開けて入ってくるのも重要</li>
+<br></ul>
+</li>
+</ul>
+<h4>[1:58:58]『Saving Mr. Banks（ウォルト・ディズニーの約束）』</h4><br>
+<ul>
+<li>アナ雪より良かったね
+<ul>
+<li>アナ雪はすごくよく出来てるから1回見れば95%くらい理解できてしまってリプレイバリューが低い</li>
+<li>Saving Mr. Banksはラストも含めてけっこう複雑な感情が残るのでもう一回観てみたい</li>
+<br><br><br></ul>
+</li>
+</ul>
+<p><hr></p>
+<ul>
+<li>使用曲
+<ul>
+<li><a href="http://moldiloxchips.bandcamp.com/album/the-drifting-classroom" target="_blank">“The Drifting Classroom” (by Moldilox)</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<img src="//feeds.feedburner.com/~r/ida10_miyaoka/~4/2enlWZKgLIU" height="1" width="1" alt=""/>]]>
 </description>
 <pubDate>Sun, 6 Apr 2014 00:00:00 +0000</pubDate>
 <copyright>iandme</copyright>
