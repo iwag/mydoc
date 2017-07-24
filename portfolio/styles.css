@@ -32,6 +32,40 @@ body .demo-blog {
   font-family: 'Roboto', 'Helvetica', sans-serif;
 }
 
+
+.android-header .mdl-menu__container {
+  z-index: 50;
+  margin: 0 !important;
+}
+
+
+.android-header {
+  overflow: visible;
+  background-color: white;
+}
+
+.android-header .material-icons {
+  color: #767777 !important;
+}
+
+.android-header .mdl-layout__drawer-button {
+  background: transparent;
+  color: #767777;
+}
+
+.android-header .mdl-navigation__link {
+  color: #757575;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+
+@media (max-width: 700px) {
+  .android-title {
+    display: none !important;
+  }
+}
+
 .demo-blog .demo-blog__posts {
   max-width: 900px;
   padding: 0;
@@ -166,7 +200,7 @@ body .demo-blog {
   background-image: url('https://github.com/google/material-design-lite/raw/mdl-1.x/templates/blog/images/road.jpg');
 }
 .demo-blog .shopping .mdl-card__media {
-  background-image: url('https://github.com/google/material-design-lite/raw/mdl-1.x/templates/blog/images/shopping.png');
+  background-image: url('https://github.com/google/material-design-lite/raw/mdl-1.x/templates/blog/images/shopping.jpg');
 }
 .demo-blog .demo-blog__posts > .demo-nav {
   margin: 12px 15px;
@@ -333,7 +367,7 @@ body .demo-blog {
 .demo-blog .minilogo {
   width: 44px;
   height: 44px;
-  background-image: url('https://github.com/google/material-design-lite/raw/mdl-1.x/templates/blog/images/avator.jpg');
+  background-image: url('https://github.com/google/material-design-lite/raw/mdl-1.x/templates/blog/images/avatar.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: 50%;
