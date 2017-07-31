@@ -114,7 +114,7 @@ body .demo-blog {
   width: 100%;
   padding: 16px;
   min-height: 64px;
-  display: flex;
+  /*display: flex;*/
   align-items: center;
   font-size: 1.2rem;
   line-height: 36px;
@@ -139,7 +139,7 @@ body .demo-blog {
 .demo-blog .meta {
   box-sizing: border-box;
   padding: 16px;
-  display: flex;
+  /*display: flex;*/
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
@@ -163,7 +163,6 @@ body .demo-blog {
   margin-right: 16px;
 }
 .demo-blog .meta > * {
-  display: flex;
   flex-direction: column;
 }
 .demo-blog.is-small-screen .demo-blog__posts > .mdl-card.coffee-pic {
