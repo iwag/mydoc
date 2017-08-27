@@ -19,23 +19,24 @@ h4, h5, h6 {
 @media (max-width: 512px)  and (min-resolution: 1.5dppx),
        (max-width: 1024px) and (max-resolution: 1.5dppx) {
   body::before {
-    background-image: url('images/mountain.jpg'); /* make it smaller */
+    /* background-image: url('images/mountain.jpg'); /* make it smaller */
   }
 }
 @media (min-width: 513px)  and (max-width: 1024px) and (min-resolution: 1.5dppx),
        (min-width: 1025px) and (max-width: 2048px) and (max-resolution: 1.5dppx)  {
   body::before {
-    background-image: url('images/mountain.jpg');
+    /*background-image: url('images/mountain.jpg');*/
   }
 }
 @media (min-width: 1025px) and (min-resolution: 1.5dppx),
        (min-width: 2049px) and (max-resolution: 1.5dppx) {
   body::before {
-    background-image: url('images/mountain.jpg');
+    /*background-image: url('images/mountain.jpg');*/
   }
 }
 body .demo-blog {
-  font-family: 'Roboto', 'Helvetica', sans-serif;
+/*  font-family: 'Roboto', 'Helvetica', sans-serif;*/
+background-color: #EFEFEF;
 }
 
 
@@ -47,20 +48,17 @@ body .demo-blog {
 
 .android-header {
   overflow: visible;
-  background-color: white;
+  background-color: #EFEFEF;
 }
 
 .android-header .material-icons {
-  color: #767777 !important;
 }
 
 .android-header .mdl-layout__drawer-button {
   background: transparent;
-  color: #767777;
 }
 
 .android-header .mdl-navigation__link {
-  color: #757575;
   font-weight: 700;
   font-size: 14px;
 }
@@ -82,7 +80,7 @@ body .demo-blog {
 }
 
 .demo-blog.mdl-layout .mdl-layout__content {
-  padding-top: 100px;
+  padding-top: 30px;
   position: relative;
   -webkit-overflow-scrolling: touch;
 }
@@ -172,8 +170,9 @@ body .demo-blog {
   order: -1;
 }
 .demo-blog .coffee-pic .mdl-card__media {
-  background-image: url('https://github.com/google/material-design-lite/raw/mdl-1.x/templates/blog/images/coffee.jpg');
-  min-height: 240px;
+/*  background-color: rgba(200,200,200,.87);*/
+/*  background-image: url('https://github.com/google/material-design-lite/raw/mdl-1.x/templates/blog/images/coffee.jpg');
+  min-height: 80px;*/
 }
 .demo-blog .something-else .mdl-card__media {
   display: flex;
@@ -413,11 +412,11 @@ body .demo-blog {
   background: transparent;
 }
 
-.demo-blog .mdl-mini-footer {
-  margin-top: 80px;
-  height: 120px;
-  padding: 40px;
+.mdl-mini-footer {
+  margin-top: 0px;
+  height: 60px;
+  padding: 20px;
   align-items: center;
-  background-color: white;
+  background-color: rgba(200, 200, 200, 0.54);
   box-sizing: border-box;
 }
