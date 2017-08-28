@@ -11,10 +11,18 @@ body::before {
     position: fixed;
 }
 
-h4, h5, h6 {
+h4, h5 {
   text-align: left;
   align: left;
+  margin-top: 15px;
+  margin-bottom: 5px;
 }
+
+h6 {
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
 
 @media (max-width: 512px)  and (min-resolution: 1.5dppx),
        (max-width: 1024px) and (max-resolution: 1.5dppx) {
@@ -71,7 +79,7 @@ background-color: #EFEFEF;
 }
 
 .demo-blog .demo-blog__posts {
-  max-width: 900px;
+  max-width: 800px;
   padding: 0;
   display: flex;
   width: 100%;
@@ -114,8 +122,8 @@ background-color: #EFEFEF;
   min-height: 64px;
   /*display: flex;*/
   align-items: center;
-  font-size: 1.2rem;
-  line-height: 36px;
+  font-size: 1rem;
+  line-height: 22px;
 }
 .demo-blog .mdl-card__supporting-text strong {
   font-weight: 400;
