@@ -11,6 +11,14 @@ body::before {
     position: fixed;
 }
 
+body {
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: "Open Sans", sans-serif; 
+  background-color: #EFEFEF;
+  
+}
+
 h4, h5 {
   text-align: left;
   align: left;
@@ -23,6 +31,13 @@ margin-top: 0px;
 margin-bottom: 0px;
 }
 
+a:visited {
+	font-weight: bold;
+}
+
+a {
+	color: #00897b;
+}
 
 @media (max-width: 512px)  and (min-resolution: 1.5dppx),
        (max-width: 1024px) and (max-resolution: 1.5dppx) {
@@ -44,7 +59,6 @@ margin-bottom: 0px;
 }
 body .demo-blog {
 /*  font-family: 'Roboto', 'Helvetica', sans-serif;*/
-background-color: #EFEFEF;
 }
 
 
@@ -118,13 +132,28 @@ background-color: #EFEFEF;
 }
 .demo-blog .mdl-card__supporting-text {
   width: 100%;
-  padding: 16px;
+  padding-left: 16px;
   min-height: 64px;
   /*display: flex;*/
   align-items: center;
   font-size: 1rem;
   line-height: 22px;
 }
+.demo-blog .mdl-card__supporting-text .tags {
+  text-align: right;
+}  
+.demo-blog .mdl-card__supporting-text .tag {
+  display: inline-block;
+  font-weight: bold;
+  background-color: #00897b;
+  padding: 1px 8px;
+  color: #fff;
+}
+
+.demo-blog .mdl-card__supporting-text .duration {
+  text-align: right;
+}  
+
 .demo-blog .mdl-card__supporting-text strong {
   font-weight: 400;
 }
@@ -245,7 +274,8 @@ background-color: #EFEFEF;
   font-weight: inherit;
 }
 .demo-blog .mdl-card h3 {
-  margin: 0;
+  font-size: 1.1em;
+  margin: auto;
 }
 .demo-blog .mdl-card h3 a {
   text-decoration: none;
@@ -425,6 +455,6 @@ background-color: #EFEFEF;
   height: 60px;
   padding: 20px;
   align-items: center;
-  background-color: rgba(200, 200, 200, 0.54);
+  /* background-color: rgba(200, 200, 200, 0.54); */
   box-sizing: border-box;
 }
