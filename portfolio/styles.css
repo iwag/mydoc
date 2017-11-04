@@ -144,7 +144,6 @@ body .demo-blog {
 }  
 .demo-blog .mdl-card__supporting-text .tag {
   display: inline-block;
-  font-weight: bold;
   background-color: #00897b;
   padding: 1px 8px;
   color: #fff;
