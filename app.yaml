@@ -1,0 +1,15 @@
+runtime: go
+api_version: go1.8
+
+handlers:
+  - url: /$
+    script: _go_app
+
+  - url: /portfolio
+    static_dir: portfolio
+
+#  - url: /index.html
+#    static_files: portfolio/index.html
+#    upload: portfolio/index.html
+
+
