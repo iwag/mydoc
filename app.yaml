@@ -8,8 +8,11 @@ handlers:
   - url: /portfolio
     static_dir: portfolio
 
-#  - url: /index.html
-#    static_files: portfolio/index.html
-#    upload: portfolio/index.html
+  - url: /favicon.ico
+    static_files: favicon.ico
+    upload: favicon.ico
+
+skip_files:
+  - /portfolio/*.md
 
 

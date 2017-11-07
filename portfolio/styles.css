@@ -19,7 +19,17 @@ body {
   
 }
 
-h4, h5 {
+h1 {
+  font-size: 1.8em;
+}
+
+h5 {
+  font-size: 1.0em;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+h4 {
   text-align: left;
   align: left;
   margin-top: 15px;
@@ -274,7 +284,8 @@ body .demo-blog {
 }
 .demo-blog .mdl-card h3 {
   font-size: 1.1em;
-  margin: auto;
+  margin-bottom: 0px;
+  /* margin: auto; */
 }
 .demo-blog .mdl-card h3 a {
   text-decoration: none;
