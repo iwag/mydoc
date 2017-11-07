@@ -161,6 +161,7 @@ body .demo-blog {
 
 .demo-blog .mdl-card__supporting-text .duration {
   text-align: right;
+  font-style: italic;
 }  
 
 .demo-blog .mdl-card__supporting-text strong {
