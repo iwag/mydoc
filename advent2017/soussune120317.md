@@ -16,9 +16,9 @@ http://rebuild.fm/153a/ 確かにこのとおりです。
 miyagawa さんが住んでもいいかなーと言ってたのも頷けます。
 
 # Beautiful
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Vancouver_ib.jpg/800px-Vancouver_ib.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Vancouver_ib.jpg/640px-Vancouver_ib.jpg) （写真は[wikipedia](https://commons.wikimedia.org/wiki/File:Vancouver_ib.jpg) より)
 
-きれいです。 夏はマジ beautiful です。。[miyagawaの写真](https://www.flickr.com/photos/bulknews/sets/72157646041152440) みてわかると思います。てかよく撮れすぎててこんなおしゃれタウン住んでたんだって驚愕するくらいです。
+きれいです。 夏はマジ beautiful です。。[miyagawaさんの写真](https://www.flickr.com/photos/bulknews/sets/72157646041152440) みてわかると思います。てか写真よく撮れすぎててこんなおしゃれタウン住んでたんだってビビりました。
 冬も緯度の割にそんなに寒くない。ただ冬は雨が多くてややうんざりします。夏に来ましょう。冬はオフシーズンで航空券やホテルが安いです。
 
 # コンパクト
