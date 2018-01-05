@@ -23,7 +23,5 @@ rebuildだとアメリカ最高！みたいな感じですが、聞いてると�
 * [リモートワークってどうよ](https://www.bloomberg.com/news/audio/2017-06-13/is-working-from-home-too-good-to-be-true)
 * [奨学金返済ガイド](https://www.bloomberg.com/news/audio/2017-05-30/the-expert-s-guide-to-not-freaking-out-about-student-debt) 、アメリカでは学費が高騰してて、マジ大変そう
 
-いやー気がきいてるでしょ？ 好きなのは[職場の友は本当の友達になれるのか？](https://www.bloomberg.com/news/audio/2017-04-08/don-t-be-fooled-your-work-friends-aren-t-real-friends-podcast)の回で、最初おっちゃんとねえちゃんが気持ちよさそうにカラオケで歌ってるところがいい…。おっちゃんはその後辞めたらしいので一瞬のきらめきのような余韻がある。あとアメリカでも飲んだ後にカラオケとか行くんだ…ってのもはじめて知った。
-
 ちなみに[今週が最終回でした](https://www.bloomberg.com/news/audio/2017-12-05/our-pettiest-office-complaints-compiled)、、、理由がパーソナリティの片方がhead of podcastに出世してマネジメント業が忙しくなったため、それも会社！！！っぽくてよいですね。
 
