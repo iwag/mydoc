@@ -25,15 +25,11 @@
 </head>
 
 <body>
-  <!--
   <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
     <div class="android-header mdl-layout__header mdl-layout__header--waterfall">
       <div class="mdl-layout__header-row">
-        <span class="android-title mdl-layout-title">
-        </span>
-        <div class="android-header-spacer mdl-layout-spacer"></div>
         <div class="android-navigation-container">
-          <nav class="android-navigation mdl-navigation">
+          <nav class="android-navigation mdl-navigation" align="right">
             <a class="mdl-navigation__link mdl-typography--text-uppercase" href="./index.html">ENGLISH</a>
             <a class="mdl-navigation__link mdl-typography--text-uppercase" href="./index_ja.html">JAPANESE</a>
           </nav>
@@ -41,19 +37,15 @@
       </div>
     </div>
   </div>
--->
 
   <div class="demo-blog demo-blog--blogpost mdl-layout mdl-js-layout has-drawer is-upgraded">
-
     <main class="mdl-layout__content">
       <div class="demo-blog__posts mdl-grid">
         <div class="mdl-card coffee-pic mdl-cell mdl-cell--12-col">
 			<h1><a href="">TAKUYA IWAKAMI <small>(iwag)</small> </a>
-			<!--
         <a href="https://github.com/iwag" ><img src="./github.png" width="24px" /></a>
         <a href="https://www.linkedin.com/in/takuya-iwakami"><img src="./linkedin.png" width="30px"/></a>
         <a href="#others"><img src="./mail.png" width="26"/></a>
-		-->
 		&nbsp;<u><a href="https://about.me/iwag"><img src="./about-me.png" width="72px"  style="border:dashed 2px #222;padding:1px;"/></a></u>
       </h1> 
           <div class="mdl-card__supporting-text meta mdl-color-text--grey-600">
@@ -131,7 +123,7 @@
         
                   <h5>Analysis software for Olympus flagship fluorescent microscope.</h5>
                   <div class="mdl-card__supporting-text mdl-color-text--grey-600">                      
-                  Developed Image processing module for the analysis software. Integrated Fixstars’s high-speed image-processing framework into the analysis software.
+                  Promoted development for the image processing module of the analysis software. Successfully integrated Fixstars’s high-speed image-processing framework into the analysis software.
                   <div class="tags">
                     <div class="tag">Java</div>
                     <div class="tag">Eclipse RCP</div>
@@ -155,32 +147,37 @@
                   (Vancouver, Canada. May 2017 - Present)</div></h3>
                   Diploma in Web and Mobile Application Development.                                
 
-                  <h3>Nara Institute of Science and Technology <div class="duration">(Nara, Japan. April 2009 - March 2011)</div></h3>
-                  MS in Computer Science, Computer Architecture Major.</p>
+		  <h3>Nara Institute of Science and Technology <div class="duration">(Nara, Japan. April 2009 - March 2011)</div></h3>
+		  MS in Computer Science, Computer Architecture Major.
+		  <h5>Research Assistant: NEDO's project on next-generation highly energy-efficient accelerator</h5> 
+                  <div class="mdl-card__supporting-text mdl-color-text--grey-600">                      
+		  Designed the cache module to utilize ALU array of the accelerator for parallel execution in Verilog HDL and ran it on FPGA.
+		  Proposed and integrated a unique time-sharing approach for ALU array, as a result of evaluation reduced the implementation area by 84% from the original implementation area. 
+		  <a href="">paper1</a>
+		  </div>
+		  <h3>Kyushu Institute of Technology <div class="duration">(Fukuoka, Japan. April 2007 - March 2009)</div></h3>
+		  BS in Computer Science.
+	      </dl>  
 
-                  <h3>Kyushu Institute of Technology <div class="duration">(Fukuoka, Japan. April 2007 - March 2009)</div></h3>
-                  BS in Computer Science.</p>
-              </dl>  
-
-              <h2>Activities:</h2>
-              <dl>
-                <h5>GCP workshop in Vancouver (Dec 2017 -)</h5>
-				Started workshops on GCP. <a href="https://speakerdeck.com/iwag/gcp-workshop-1-gce">slide1</a>
-                <h5>Podcast Web Application (2017)</h5>
-                <a href="https://tweakpods.appspot.com/">https://tweakpods.appspot.com</a> 
-                <a href="https://github.com/iwag/filtercast">source</a>
-                <div class="tags">
-                  <div class="tag">Go</div>
-                  <div class="tag">AppEngine Standard</div>
-                  <div class="tag">ReactJs</div>
-                </div>
-                <h5><a href="https://www.coursera.org">coursera</a></h5>                 
-                <li>Functional Programming Principles in Scala</li>
-                <li>Principles of Reactive Programming</li>
-				<h5>Tech Talks</h5>
-				Presented seminars and LT several times. 
-              <a href="https://speakerdeck.com/iwag">https://speakerdeck.com/iwag</a>
-              </dl>
+	      <h2>Activities:</h2>
+	      <dl>
+		      <h5>GCP workshop in Vancouver (Dec 2017 -)</h5>
+		      Started workshops on GCP. <a href="https://speakerdeck.com/iwag/gcp-workshop-1-gce">slide1</a>
+		      <h5>Podcast Web Application (2017)</h5>
+		      <a href="https://tweakpods.appspot.com/">https://tweakpods.appspot.com</a> 
+		      <a href="https://github.com/iwag/filtercast">source</a>
+		      <div class="tags">
+			      <div class="tag">Go</div>
+			      <div class="tag">AppEngine Standard</div>
+			      <div class="tag">ReactJs</div>
+		      </div>
+		      <h5><a href="https://www.coursera.org">coursera</a></h5>                 
+		      <li>Functional Programming Principles in Scala</li>
+		      <li>Principles of Reactive Programming</li>
+		      <h5>Tech Talks</h5>
+		      Presented seminars and LT several times. 
+		      <a href="https://speakerdeck.com/iwag">https://speakerdeck.com/iwag</a>
+	      </dl>
 
               <h2 id="others">Others:</h2>
               <li><img src="my_mail.png" height="20px"/></li>
@@ -211,6 +208,7 @@
   <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
 </body>
 <script>
+  console.log('Ψ(｀▽´)ΨΨ(｀▽´)ΨΨ(｀▽´)Ψ Thank you for reading the source Ψ(｀▽´)ΨΨ(｀▽´)ΨΨ(｀▽´)Ψ');
   Array.prototype.forEach.call(document.querySelectorAll('.mdl-card__media'), function(el) {
     var link = el.querySelector('a');
     if (!link) {
