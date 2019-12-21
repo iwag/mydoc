@@ -1,18 +1,15 @@
-runtime: go
-api_version: go1
+runtime: go112
 
 handlers:
-  - url: /$
-    script: _go_app
+- url: /portfolio
+  static_dir: portfolio
 
-  - url: /portfolio
-    static_dir: portfolio
+- url: /favicon.ico
+  static_files: favicon.ico
+  upload: favicon.ico
 
-  - url: /favicon.ico
-    static_files: favicon.ico
-    upload: favicon.ico
-
-skip_files:
-  - /portfolio/*.md
-
-
+# Use HTTPS for all requests.
+- url: /.*
+  secure: always
+  redirect_http_response_code: 301
+  script: auto
