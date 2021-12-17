@@ -6,8 +6,8 @@
 
 
 このプロジェクトでは以下の改善行いました。
-- 2要素認証入れなくなったユーザーのためのヘルプ（新規）
-- バックアップという手段がありますよというブログ
+- [2要素認証入れなくなったユーザーのためのヘルプ（新規）](https://support.nulab.com/hc/ja/articles/4409145099673-2%E6%AE%B5%E9%9A%8E%E8%AA%8D%E8%A8%BC%E3%81%A7%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AF)
+- [バックアップの認証方法に関する啓蒙ブログ](https://nulab.com/ja/blog/nulab/how-to-2fa-backup/)
 - UI改善
 <p align="center">
 <img src="https://i.imgur.com/vJ5klbd.png" alt="諸事情により手書き" center width="340"/>
